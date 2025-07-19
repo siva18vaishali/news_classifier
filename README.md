@@ -16,8 +16,7 @@ This project is a **Machine Learning-based web application** that classifies new
 * User-friendly **React.js** frontend interface.
 * **Flask** backend API for model inference.
 * Data pre-processing using **Pandas**, **NumPy**, and **Scikit-learn**.
-* Achieves ~94% accuracy** on the test dataset.
-* 
+* Achieves **\~94% accuracy** on the test dataset.
 * Clean, minimal UI for seamless user interaction.
 
 ---
